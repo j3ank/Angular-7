@@ -24,7 +24,6 @@ import {
     MatTooltipModule,
     } from '@angular/material';
 
-import { BreadcrumbComponent } from './components/breadcrumb/breadcrumb.component';
 
 
 const modules: any[] = [
@@ -50,7 +49,6 @@ const modules: any[] = [
     MatProgressBarModule,
     MatExpansionModule,
     MatSortModule,
-    BreadcrumbComponent,
 ];
 
 const components: any[] = [];
