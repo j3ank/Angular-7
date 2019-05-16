@@ -24,8 +24,6 @@ import {
     MatTooltipModule,
     } from '@angular/material';
 
-
-
 const modules: any[] = [
     CommonModule,
     FormsModule,
